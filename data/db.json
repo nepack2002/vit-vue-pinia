@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hair styling"
+    },
+    {
+      "id": 2,
+      "name": "Hair control"
+    },
+    {
+      "id": 3,
+      "name": "Combo"
+    },
+    {
+      "id": 4,
+      "name": "Best seller"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "REBOUND CURL DEFINING CREAM",
+      "price": 20.83,
+      "description": "A curl-enhancing hair cream that adds definition and light hold to natural curls. Perfect for those with wavy or curly hair. Add this lightweight cream to damp, towel-dried hair and either gently scrunch with your hands before airdrying, or follow with a diffuser.",
+      "image": "/src/assets/img/sp1.webp",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "CAVALIER HEAVY CLAY",
+      "price": 20.83,
+      "description": "A volumizing clay that provides our highest level of hold and texture. Tames and conditions thick hair using amino acids and natural oils. Just apply to clean, dry hair to style.",
+       "image": "/src/assets/img/sp2.jpg",
+       "category_id": 2
+    },
+    {
+      "id": 3,
+      "name": "FIFTH SAMPLE OMADE",
+      "price": 300,
+      "description": "A high-hold, low-shine pomade perfect for slick backs and other polished hairstyles. Its nutrient-rich, water-based formula makes hair softer with every use while still washing out easily. Just apply to clean, dry hair and style as desired.",
+       "image": "/src/assets/img/sp3.jpg",
+       "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "TEXTURE WAVES HAIR BUNDLE",
+      "price": 400,
+      "description": "A 4-product bundle perfect for achieving loose, beachy waves. Our best-selling hair oil fights dryness and frizz, while our salt spray and matte paste provide effortless texture and a boost of volume to any hairstyle.",
+      "image": "/src/assets/img/sp4.webp",
+      "category_id": 3
+    },
+    {
+      "id": 5,
+      "name": "HYBRID SCREAM CLAY",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp5.jpg",
+      "category_id": 2
+    },{
+      "id": 6,
+      "name": "MORNARCH MASTE PASTE",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp6.jpg","category_id": 1
+    },{
+      "id": 7,
+      "name": "ORIDINAL STYLING MERAKI",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp7.jpg","category_id": 2
+    },{
+      "id": 8,
+      "name": "ASCENT VOLUME",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp8.jpg","category_id": 1
+    },{
+      "id": 9,
+      "name": "ASCENT VOLUME",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp9.jpg","category_id": 1
+    },{
+      "id": 10,
+      "name": "COMBO ASCENT CAVALIER",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp10.jpg","category_id": 3
+    },{
+      "id": 11,
+      "name": "DISCOVERY",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp11.webp","category_id": 3
+    },{
+      "id": 12,
+      "name": "BIG COMBO",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp12.jpg","category_id": 3
+    },
+    {
+      "id": 13,
+      "name": "REBOUND AND CLOUND",
+      "price": 400,
+      "description": "This is product 4",
+      "image": "/src/assets/img/sp13.jpg","category_id": 3
+    }
+  ]
+
+}
